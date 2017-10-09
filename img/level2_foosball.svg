@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="541" height="301">
+  <defs>
+    <path d="M0 133.24h81.25v12.18H0v-12.18z" id="a"/>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="40.62" y1="133.24" x2="40.62" y2="145.42">
+      <stop offset="0%" stop-color="#dadada"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+    <path d="M459.75 133.24H541v12.18h-81.25v-12.18z" id="c"/>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="500.38" y1="133.24" x2="500.38" y2="145.42">
+      <stop offset="0%" stop-color="#dadada"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+    <path d="M98.33 133.09h164.58v12.18H98.33v-12.18z" id="e"/>
+    <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="180.62" y1="133.09" x2="180.62" y2="145.27">
+      <stop offset="0%" stop-color="#dadada"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+    <path d="M278.75 133.24h164.58v12.18H278.75v-12.18z" id="g"/>
+    <linearGradient id="h" gradientUnits="userSpaceOnUse" x1="361.04" y1="133.24" x2="361.04" y2="145.42">
+      <stop offset="0%" stop-color="#dadada"/>
+      <stop offset="100%" stop-color="#727272"/>
+    </linearGradient>
+  </defs>
+  <use xlink:href="#a" fill="url(#b)"/>
+  <use xlink:href="#c" fill="url(#d)"/>
+  <use xlink:href="#e" fill="url(#f)"/>
+  <use xlink:href="#g" fill="url(#h)"/>
+</svg>
